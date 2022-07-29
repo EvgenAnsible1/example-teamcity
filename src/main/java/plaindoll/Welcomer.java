@@ -11,6 +11,6 @@ public class Welcomer{
 		return "Not enough gold";
 	}
 	public String sayNeedHW(){
-		return "I do my homework hunter";
+		return "I do my homework hunter.";
 	}
 }
